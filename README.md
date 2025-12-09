@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Python, FastAPI, PyTorch, HuggingFace Transformers
+- **Detected Technologies:** Python
 - **GitHub Topics:** None
 
 ---
